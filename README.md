@@ -1,7 +1,6 @@
 # Hej! 
 
 I'm a bachelor student major in computer science.
-![](./profile-3d-contrib/profile-gitblock.svg)
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TrendMYX/TrendMYX/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TrendMYX/TrendMYX/output/github-snake.svg" />
