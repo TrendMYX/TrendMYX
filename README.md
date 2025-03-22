@@ -3,7 +3,7 @@
 I'm a bachelor student major in computer science.
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TrendMYX/TrendMYX/output-3d-contrib/bitmap.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TrendMYX/TrendMYX/output-3d-contrib/night.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TrendMYX/TrendMYX/output-3d-contrib/bitmap.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/TrendMYX/TrendMYX/output-3d-contrib/bitmap.svg" />
 </picture>
