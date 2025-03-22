@@ -1,8 +1,6 @@
 # Hej! 
 
-I'm a bachelor student major in computer science
-
-<a href="https://clustrmaps.com/site/1c51n"  title="ClustrMaps"><img src="//www.clustrmaps.com/map_v2.png?d=4V976i2h3dksG73_QPsWdm4t26GKWnmhEmm_mugk_HA&cl=ffffff" /></a>
+I'm a bachelor student major in computer science.
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TrendMYX/TrendMYX/output/github-snake-dark.svg" />
