@@ -1,6 +1,7 @@
 [
 {
     "type": "bitmap",
+    "fileName": "bitmap.svg",
     "backgroundColor": "#ffffff",
     "foregroundColor": "#00000f",
     "strongColor": "#111133",
