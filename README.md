@@ -1,4 +1,4 @@
-# Hej! 
+# Hello! 
 
 I'm a bachelor student major in computer science.
 
